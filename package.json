@@ -1,0 +1,9 @@
+{
+  "name": "pinky-promise",
+  "version": "1.0.0",
+  "description": "JOKE MODULE! DO NOT USE! Strengthens Promises by wrapping them in more Promises to make uber-sure you can count on your application keeping its word.",
+  "main": "index.js",
+  "keywords": [ "joke", "promise" ],
+  "author": "Matt Gawarecki",
+  "license": "MIT"
+}
